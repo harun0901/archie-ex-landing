@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="256"
+   width="256"
+   sodipodi:docname="Fuse-Network-Token-FUSE-Coin-Icon.svg"
+   id="svg873"
+   version="1.1"
+   viewBox="0 0 256 256">
+  <metadata
+     id="metadata877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg873"
+     inkscape:cy="153.58865"
+     inkscape:cx="130.53193"
+     inkscape:zoom="1.0554032"
+     showgrid="false"
+     id="namedview875"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title833">Group 28</title>
+  <defs
+     id="defs852">
+    <polygon
+       points="99.736396,0.19078667 99.736396,38.266667 0.00028885682,38.266667 0.00028885682,0.19078667 "
+       id="path-1" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.6184572,0.61787236)"
+       id="linearGradient-3"
+       y2="61.932964"
+       x2="30.812271"
+       y1="-99.823775"
+       x1="30.812271">
+      <stop
+         id="stop836"
+         offset="0%"
+         stop-color="#B3F9BA" />
+      <stop
+         id="stop838"
+         offset="100%"
+         stop-color="#F6FB8C" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.6222142,0.6164414)"
+       id="linearGradient-4"
+       y2="178.39287"
+       x2="30.82207"
+       y1="20.112924"
+       x1="30.82207">
+      <stop
+         id="stop841"
+         offset="0%"
+         stop-color="#B1FFBF" />
+      <stop
+         id="stop843"
+         offset="100%"
+         stop-color="#FFF16D" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.3363062,0.74833148)"
+       id="linearGradient-5"
+       y2="147.32776"
+       x2="37.416574"
+       y1="12.026756"
+       x1="37.416574">
+      <stop
+         id="stop846"
+         offset="0%"
+         stop-color="#B3F9BA" />
+      <stop
+         id="stop848"
+         offset="100%"
+         stop-color="#F6FB8C" />
+    </linearGradient>
+    <polygon
+       points="57.625925,0.77825 57.625925,108.69224 0.69300706,108.69224 0.69300706,0.77825 "
+       id="path-6" />
+    <polygon
+       id="path-1-3"
+       points="99.736396,0.19078667 99.736396,38.266667 0.00028885682,38.266667 0.00028885682,0.19078667 " />
+    <polygon
+       id="path-3"
+       points="57.625925,0.77825 57.625925,108.69224 0.69300706,108.69224 0.69300706,0.77825 " />
+  </defs>
+  <circle
+     r="128"
+     cy="128"
+     cx="128"
+     id="path944"
+     style="opacity:0.98;fill:#25435a;fill-opacity:1;fill-rule:evenodd;stroke-width:7" />
+  <g
+     transform="matrix(1.1249475,0,0,1.1249475,113.76373,89.094665)"
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="New-web-2021">
+    <g
+       id="Group-28">
+      <g
+         transform="matrix(1.4222886,0,0,1.4222886,-58.459381,-51.653965)"
+         id="g953">
+        <g
+           id="Group-3"
+           transform="translate(0,74)">
+          <mask
+             id="mask-2"
+             fill="#ffffff">
+            <use
+               xlink:href="#path-1"
+               id="use854"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </mask>
+          <g
+             id="Clip-2" />
+          <path
+             d="m 49.771523,19.57012 c -3.51436,0 -6.780147,-0.736633 -9.445787,-2.130633 L 11.621696,2.43212 3.0205093,7.6008533 C -1.067904,10.056753 -0.99649067,13.82192 3.179816,16.005853 l 39.70032,20.7583 c 1.92816,1.007234 4.393293,1.503334 6.891387,1.503334 2.91696,0 5.876493,-0.675134 8.07932,-1.998067 L 96.716176,12.913087 C 100.80459,10.45582 100.73318,6.6906533 96.556869,4.5080867 L 88.303136,0.19078667 60.689523,16.78622 c -2.988374,1.794433 -6.865294,2.7839 -10.918,2.7839"
+             id="Fill-1"
+             fill="url(#linearGradient-3)"
+             mask="url(#mask-2)"
+             style="fill:url(#linearGradient-3)" />
+        </g>
+        <path
+           d="M 96.812082,53.656654 89.920408,50 l -16.048443,9.785372 -2.755292,1.679558 -2.753916,1.679558 -7.512681,4.581245 c -2.99626,1.828326 -6.884789,2.833559 -10.946814,2.833559 -3.523635,0 -6.798041,-0.749406 -9.470716,-2.166185 l -8.607363,-4.567341 -2.848926,-1.509934 -2.848925,-1.511324 -15.8598,-8.415865 -7.2386666,4.414401 c -4.0992032,2.499872 -4.0289784,6.328931 0.1583502,8.55073 l 8.2768934,4.390765 2.848925,1.511324 2.847549,1.511324 25.833104,13.704805 C 44.925559,87.496689 47.398575,88 49.903262,88 c 2.923281,0 5.892002,-0.685449 8.099265,-2.03132 l 24.836187,-15.143829 2.755293,-1.679558 2.753915,-1.679558 8.623887,-5.258351 c 4.099201,-2.498482 4.027601,-6.328931 -0.159727,-8.55073"
+           id="Fill-4"
+           fill="url(#linearGradient-4)"
+           style="fill:url(#linearGradient-4)" />
+        <path
+           d="M 96.812082,31.252452 57.00561,10.502806 C 55.073738,9.4945596 52.602099,9 50.096036,9 47.172754,9 44.204033,9.6748963 41.99677,10.997365 L 3.0288654,34.345499 c -4.0992032,2.455038 -4.0289784,6.217516 0.1583502,8.400683 l 6.8916734,3.593071 2.848926,1.485046 2.848925,1.485045 15.8598,8.268163 2.848925,1.483679 2.848926,1.486411 5.659296,2.950964 C 44.925559,64.50544 47.398575,65 49.903262,65 c 2.923281,0 5.892002,-0.674896 8.099265,-1.997365 l 4.662379,-2.793852 2.755293,-1.650354 2.753915,-1.650354 16.048443,-9.615223 2.755292,-1.650354 2.753916,-1.650354 7.240044,-4.337643 c 4.099201,-2.455038 4.027601,-6.218883 -0.159727,-8.402049"
+           id="Fill-6"
+           fill="url(#linearGradient-5)"
+           style="fill:url(#linearGradient-5)" />
+      </g>
+      <g
+         transform="translate(128)"
+         id="Group-10">
+        <mask
+           fill="#ffffff"
+           id="mask-7">
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             id="use862"
+             xlink:href="#path-6" />
+        </mask>
+        <g
+           id="Clip-9" />
+      </g>
+    </g>
+  </g>
+</svg>
